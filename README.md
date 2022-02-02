@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on -> Google Keep Clone
-- 🌱 I’m currently learning -> React
+- 🌱 I’m currently learning -> Kubernetes
 - 👯 I’m looking to collaborate on -> MERN Projects
 - 🤔 I’m looking for help with -> Careers
 - 💬 Ask me about -> Bootstrap, NodeJS, MongoDB
